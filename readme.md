@@ -3,10 +3,6 @@ Implementing the Gang of Four Design Patterns in Java
 Where's the logbook (google doc) for what's covered here?
 - https://docs.google.com/document/d/1R67WUWk6Mt4WFksgfRQESyo8ScqkzSCfzEQzngBCIII/edit
 
-What design patterns have you covered?
-- Creational:
-	- Simple Factory
-
 What tutorial am i going through?
 - following the following tutorial: https://gitlab.com/Daribig/design-patterns-for-humans
 - the above link is an indirect pointer - it's, ultimately, pointing to https://github.com/kamranahmedse/design-patterns-for-humans

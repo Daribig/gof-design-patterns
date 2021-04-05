@@ -1,7 +1,7 @@
 package Creational.SimpleFactory.CarParts;
 
-public class Wheel{
-    public Wheel(){
+public class RoadWheel{
+    public RoadWheel(){
         
     }
 }

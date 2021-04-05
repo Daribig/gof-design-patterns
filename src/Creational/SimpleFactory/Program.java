@@ -14,9 +14,9 @@ class Program{
         System.out.println("Demo-ing the problem that is solved by the "
                             + "'Simple Factory' design pattern.");
         MetalBody metalBody = new MetalBody();
-        Paint paint = new Paint();
-        Wheel wheel = new Wheel();
-        Car car = new Car(metalBody, paint, wheel);
+        SteeringWheel steeringWheel = new SteeringWheel();
+        RoadWheel roadWheel = new RoadWheel();
+        Car car = new Car(metalBody, steeringWheel, roadWheel);
         System.out.println(car);
     }
 
