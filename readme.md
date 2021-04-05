@@ -1,5 +1,9 @@
 Implementing the Gang of Four Design Patterns in Java
 
+What design patterns have you covered?
+- Creational:
+	- Simple Factory
+
 What tutorial am i going through?
 - following the following tutorial: https://gitlab.com/Daribig/design-patterns-for-humans
 - the above link is an indirect pointer - it's, ultimately, pointing to https://github.com/kamranahmedse/design-patterns-for-humans
